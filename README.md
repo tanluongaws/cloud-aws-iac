@@ -9,5 +9,5 @@ repo
 	|   |---// All terraform related files
 	|
 	|---cloudformation
-	|   |---// All cloudformation related files
+	    |---// All cloudformation related files
 ```
