@@ -3,7 +3,7 @@ Directory for materials needed by clients for the INE AWS Engineering / IaC Basi
 ```
 repo
 |	README.md
-|	.gitignore //Cuz I hate DS_Store!
+|	.gitignore // block DS_Store
 |-------Code
 	|---terraform
 	|   |---// All terraform related files
